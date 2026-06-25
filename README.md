@@ -1,2 +1,3 @@
-# slingshot-js
-Re-masters in Computer Science
+# Re-masters in Computer Science
+
+![social-preview](./social-preview.jpg)
