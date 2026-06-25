@@ -1,0 +1,56 @@
+// BUY
+*1 x	Canon PIXMA Printer		16,1690
+1 x	Printer Cable			500
+1 x 	External CD ROM			5,000
+25 x 	DVD+RW Disc Plate		
+25 x 	DVD+RW Disc Sleeve				
+25 x 	Brown A4 Envelope 		600 or 350
+25 x	Blue Binding Film (Front)	375
+25 x	Blue Binding Card (Back)	375
+25 x	Blue Binding Stick 		300
+100 x	Cream Letterhead Paper		2,000
+*100 x	White Binding Card (Back)	1,500
+500 x	White A4 Paper Rim (70g)	1,200
+
+// SET
+1 x 	Student Portal (Exam, Cert, Satr)
+1 x	Material (24 Mods)
+1 x	DVD+RW Software Disc
+1 x	Examination
+1 x 	Transcript
+1 x	Certificate
+
+// FIX
+2 hours per class
+2 days per week
+8 class per month
+24 class per quarter
+3 months per course
+
+// PAY
+1,000 per class
+2,000 per week
+8,000 per month
+24,000 class per quarter
+24,000 months per course
+
+// SUB
+200 per class
+400 per week
+1,600 per month
+4,800 class per quarter
+4,800 months per course
+
+// FEE
+N 37,500	Total
+..........
+28,800		Tuition
+4,000		2 x Waybill
+..........
+610		Material
+200		DVD
+50		Satr
+100		Cert
+100		2 x Envelope	
+..........
+N 33,860

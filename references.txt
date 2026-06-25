@@ -1,0 +1,20 @@
+REFERENCES
+Brendan Eich, creator of JavaScript scripting language 1995, Netscape Communications Corporation, Mozilla Foundation, ECMA International, https://www.javascript.com/.
+
+Douglas Crockford, author of JavaScript Object Notation (JSON) 2000, Paypal, https://www.json.org/.
+
+Emmanuel Tugbeh, author of SlingshotJS framework for Masters in Computer Science 2019, SlingshotJS Working Group, HWP Labs, http://www.hwplabs.com/.
+
+Google LLC., owner of Google Chrome 2008, https://www.google.com/chrome/. Creator of Asynchronous JavaScript and XML (AJAX) 2004, coined by in Jesse James Garrett in 2005, standardized by the World Wide Web Consortium (W3C) in 2004, https://www.w3c.org/. 
+
+Herbert Benington, author of Waterfall SDLC Model 1956, Symposium on Advanced Programming Methods for Digital Computers, https://www.worldcat.org/oclc/10794738/.
+
+Isaac Schlueter, developer of Node Package Manager (NPM) 2010, Joyent Inc., https://www.npmjs.com/.
+
+Microsoft Corporation, owner of Visual Studio Code Integrated Development Environment (IDE) 2015, https://code.visualstudio.com/.
+
+Ryan Dahl, creator of the Node.js JavaScript run-time environment 2009, Joyent Inc., https://www.nodejs.org/.
+
+Tim Berners-Lee, developer of Hypertext Markup Language (HTML) 1993, Web Hypertext Application Technology Working Group (WHATWG), https://www.whatwg.org/.
+
+Trygve Reenskaug, author of Model-View-Controller (MVC) 1970, Xerox Palo Alto Research Center (PARC), Microsoft Corporation, https://dotnet.microsoft.com/apps/mvc/.
